@@ -1,2 +1,2 @@
-welcome to my GIT!
-this is my first line.
+welcome to my Git!
+hello
