@@ -1,2 +1,5 @@
-welcome to my Git!
-hello
+HEAD
+welcome to my GIT!
+this is my first line.
+helloo
+feature-1
